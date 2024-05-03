@@ -33,3 +33,7 @@ npm run dev
 ## Контрибьютинг
 
 Ваш вклад в развитие шаблона приветствуется! 🤝 Если вы хотите предложить изменения или улучшения, пожалуйста, создайте pull request.
+
+## Spinup react project in idx.google.com
+
+[READ](https://issuetracker.google.com/issues/338381319#comment2) the issue describing my experience with spinning up a React project inside IDX.
